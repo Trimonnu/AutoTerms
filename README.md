@@ -1,7 +1,7 @@
 # Auto Terminals
 A [ChatTriggers](https://chattriggers.com/) module. 
 
-All it does it do terminals for you <br>
+All it does it do terminals for you (these wont ban you in 10 seconds unlike odinclient and oringoclient) <br>
 Reccomennded settings are-<br>
 First Click- 325<br>
 Click Delay- 150<br>
