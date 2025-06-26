@@ -1,10 +1,11 @@
 # Auto Terminals
 A [ChatTriggers](https://chattriggers.com/) module. 
-All it does it do terminals for you
-Reccomennded settings are-
-First Click- 325
-Click Delay- 150
-Timeout- 550
+
+All it does it do terminals for you <br>
+Reccomennded settings are-<br>
+First Click- 325<br>
+Click Delay- 150<br>
+Timeout- 550<br>
 
 # How to use:
 
